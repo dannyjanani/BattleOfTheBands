@@ -1,9 +1,7 @@
 # BattleOfTheBands
 Graduate Real-Time Embedded System Project to create a band out of "air instruments".
 
-## Project Guidelines
-
-### Overview
+## Project Overview
 
 * Team: 3 People (Band Members)
 * A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
@@ -14,5 +12,19 @@ Graduate Real-Time Embedded System Project to create a band out of "air instrume
 * Any sensor may be used for chord implementation.
 * Each band is encouraged to have a “performance” look.
 * Air instruments should be invisible, made of air. 
-The less the project LOOKS the
-  better, but if you want to use minor props you can. Such as a stick for the guitar, or a drawing of a keyboard with keys on   the desk to know where keys are etc.
+* The less the project the better it looks, but  minor props may be used such as a stick for the guitar, or a drawing of a  keyboard with keys on the desk to know where keys are etc.
+
+## Instruments
+
+* Guitar
+* Keyboard
+* Drums
+
+## Project Requirements
+
+* One distinct instrument per group member.
+** Example: Bass Guitar and Guitar are different instruments.
+** Example: Drum Sticks may be used but not with direct strikes.
+
+## Provided Materials
+
