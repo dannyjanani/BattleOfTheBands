@@ -23,8 +23,20 @@ Graduate Real-Time Embedded System Project to create a band out of "air instrume
 ## Project Requirements
 
 * One distinct instrument per group member.
-** Example: Bass Guitar and Guitar are different instruments.
-** Example: Drum Sticks may be used but not with direct strikes.
+  * Example: Bass Guitar and Guitar are different instruments.
+  * Example: Drum Sticks may be used but not with direct strikes.
 
 ## Provided Materials
+
+* Audio Shield for each group member.
+* Teensy3 Audio Shield
+* Additional materials such as sensors, protoshields, or other components have to be purchased by the team.
+* Max Budget: $20 per team member.
+
+## Restrictions
+
+* Cannot play the song from the audio file directly
+* Song cannot contain inappropriate lyrics
+* No mosh pits
+* No crowd surfing
 
