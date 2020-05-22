@@ -20,7 +20,7 @@ Graduate Real-Time Embedded System Project to create a band out of "air instrume
 * Keyboard
 * Drums
 
-## Project Requirements
+## Project Goals
 
 * One distinct instrument per group member.
   * Example: Bass Guitar and Guitar are different instruments.
