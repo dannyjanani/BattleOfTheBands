@@ -3,26 +3,19 @@ Graduate Real-Time Embedded System Project to create a band out of "air instrume
 
 ## Project Overview
 
-A fun, Graduate Real-Time Embedded Systems project to create a band out of "air instruments". Three people, making three different experiments, and performing a 4-chord song in front of a class. We implemented a guitar, piano, and drum. The guitar was implemented by using an [accelerometer](https://www.livescience.com/40102-accelerometers.html) (to detect motion) as the guitar pick, as well as a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) for the different chords. The piano was implemented using a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) to play 4 different chords. Finally, the drums were implemented using 2 [accelerometers](https://www.livescience.com/40102-accelerometers.html), and different motions will make 4 different chords. This was a teambased effort, each person getting a chance to work with each component. We chose 1x4 keypads for the guitar and the piano due to the [FSRs](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr) (force sensitive resistors - detects pressure) being sold out on Arduino's website.
+A fun, Graduate Real-Time Embedded Systems project to create a band out of "air instruments". Three people, making three different experiments, and performing a 4-chord song in front of a class. We implemented a guitar, piano, and drum. The guitar was implemented by using an [accelerometer](https://www.livescience.com/40102-accelerometers.html) (to detect motion) as the guitar pick, as well as a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) for the different chords. The piano was implemented using a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) to play 4 different chords. Finally, the drums were implemented using 2 [accelerometers](https://www.livescience.com/40102-accelerometers.html), and different motions will make 4 different chords. This was a teambased effort, each person getting a chance to work with each component. We chose 1x4 keypads for the guitar and the piano due to the [FSRs](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr) (force sensitive resistors - detects pressure) being sold out on Arduino's website. Overall, this was a great project to have fun and learn tremendously at the same time. 
 
-* Team: 3 People (Band Members)
-* A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
-* Team perfoms selected song in front of class.
-* All musical instruments were implemented using "Wearables" thus "Air Instruments".
+## Project Goals
+
 * Audio output from each band members will be fed to a mixer using an RCA jack.
 * Audio amp, speakers, mixer, and audio cables will be provided to the “band.”
 * Any sensor may be used for chord implementation.
 * Each band is encouraged to have a “performance” look.
-* Air instruments should be invisible, made of air. 
-* The less the project the better it looks, but  minor props may be used such as a stick for the guitar, or a drawing of a  keyboard with keys on the desk to know where keys are etc.
-
-## Instruments
-
-* Guitar
-* Keyboard
-* Drums
-
-## Project Goals
+* The less the project the better it looks, but  minor props may be used such as a stick for the guitar, or a drawing of a  keyboard with keys on the desk to know where keys are, etc.
+* Cannot play the song from the audio file directly.
+* Song cannot contain inappropriate lyrics.
+* No mosh pits.
+* No crowd surfing.
 
 * One distinct instrument per group member.
   * Example: Bass Guitar and Guitar are different instruments.
@@ -33,12 +26,9 @@ A fun, Graduate Real-Time Embedded Systems project to create a band out of "air 
 * Audio Shield for each group member.
 * Teensy3 Audio Shield
 * Additional materials such as sensors, protoshields, or other components have to be purchased by the team.
-* Max Budget: $20 per team member.
-
-## Restrictions
-
-* Cannot play the song from the audio file directly
-* Song cannot contain inappropriate lyrics
-* No mosh pits
-* No crowd surfing
+* A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
+* Max Budget: $20 per instrument directly from Arduino.
+  * Guitar BOM: Breadboard, 1x4 Keypad, an Accelerometer.
+  * Piano BOM: Breadboard, 1x4 Keypad
+  * Drums BOM: Breadboard, 2 Accelerometers.
 
