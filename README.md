@@ -1,4 +1,4 @@
-# BattleOfTheBands
+# Battle Of The Bands
 Graduate Real-Time Embedded System Project to create a band out of "air instruments".
 
 ## Project Overview
