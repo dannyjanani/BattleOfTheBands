@@ -3,6 +3,8 @@ Graduate Real-Time Embedded System Project to create a band out of "air instrume
 
 ## Project Overview
 
+A fun, Graduate Real-Time Embedded Systems project to create a band out of "air instruments". Three people, making three different experiments, and performing a 4-chord song in front of a class. We implemented a guitar, piano, and drum. The guitar was implemented by using an [accelerometer](https://www.livescience.com/40102-accelerometers.html) (to detect motion) as the guitar pick, as well as a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) for the different chords. The piano was implemented using a [1x4 keypad](https://www.instructables.com/id/1x4-Membrane-Keypad-w-Arduino/) to play 4 different chords. Finally, the drums were implemented using 2 [accelerometers](https://www.livescience.com/40102-accelerometers.html), and different motions will make 4 different chords. This was a teambased effort, each person getting a chance to work with each component. We chose 1x4 keypads for the guitar and the piano due to the [FSRs](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr) (force sensitive resistors - detects pressure) being sold out on Arduino's website.
+
 * Team: 3 People (Band Members)
 * A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
 * Team perfoms selected song in front of class.
