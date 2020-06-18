@@ -32,7 +32,7 @@ A fun, Graduate Real-Time Embedded Systems project to create a band out of "air 
   * Piano BOM: Breadboard, 1x4 Keypad
   * Drums BOM: Breadboard, 2 Accelerometers.
 
-## What I used?
+## Skills Used
 
 * Prototyping:
   * Laser Cutting
