@@ -27,6 +27,7 @@ A fun, Graduate Real-Time Embedded Systems project to create a band out of "air 
 * Teensy3 Audio Shield
 * Additional materials such as sensors, protoshields, or other components have to be purchased by the team.
 * A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
+* Unlimited Maker space resources (3d printing, laser cutting, etc.)
 * Max Budget: $20 per instrument directly from Arduino.
   * Guitar BOM: Breadboard, 1x4 Keypad, an Accelerometer.
   * Piano BOM: Breadboard, 1x4 Keypad
