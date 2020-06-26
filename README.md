@@ -29,15 +29,22 @@ Testing                    | Presentation
 
 ## Provided Materials
 
-* Audio Shield for each group member.
-* Teensy3 Audio Shield
+* [Audio Shield](https://www.pjrc.com/audio-shield-for-teensy-4-0/) for each group member.
+* [Teensy3](https://www.pjrc.com/store/teensy32.html) for each group member.
 * Additional materials such as sensors, protoshields, or other components have to be purchased by the team.
-* A Four-Chord song was selected from https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression.
+* A Four-Chord song was selected from [Wikipedia](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression).
 * Unlimited Maker space resources (3d printing, laser cutting, etc.)
 * Max Budget: $20 per instrument directly from Arduino.
-  * Guitar BOM: Breadboard, 1x4 Keypad, an Accelerometer.
-  * Piano BOM: Breadboard, 1x4 Keypad
-  * Drums BOM: Breadboard, 2 Accelerometers.
+  * Guitar BOM: 
+    * 1x [Half-Sized Breadboard](https://www.adafruit.com/product/64)
+    * 1x [1by4 Keypad](https://www.adafruit.com/product/1332)
+    * 1x [Accelerometer](https://www.adafruit.com/product/1120)
+  * Piano BOM: 
+    * 1x [Half-Sized Breadboard](https://www.adafruit.com/product/64)
+    * 1x [1by4 Keypad](https://www.adafruit.com/product/1332)
+  * Drums BOM: 
+    * 1x [Half-Sized Breadboard](https://www.adafruit.com/product/64)
+    * 2x [Accelerometer](https://www.adafruit.com/product/1120)
 
 ## Skills Used
 
