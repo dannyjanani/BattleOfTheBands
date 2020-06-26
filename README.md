@@ -20,6 +20,12 @@ A fun, Graduate Real-Time Embedded Systems project to create a band out of "air 
 * One distinct instrument per group member.
   * Example: Bass Guitar and Guitar are different instruments.
   * Example: Drum Sticks may be used but not with direct strikes.
+  
+## Gallery
+
+Testing                    | Presentation               
+:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Testing.png)  | ![](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Presentation.png)
 
 ## Provided Materials
 
