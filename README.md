@@ -29,8 +29,8 @@ Testing                    | Presentation
 
 ## Provided Materials
 
-* [Teensy3](https://www.pjrc.com/store/teensy32.html) for each group member.
-* [Teensy3 Audio Shield](https://www.pjrc.com/audio-shield-for-teensy-4-0/) for each group member.
+* [Teensy3.2](https://www.pjrc.com/store/teensy32.html) for each group member.
+* [Teensy Audio Shield](https://www.pjrc.com/audio-shield-for-teensy-4-0/) for each group member.
 * Additional materials such as sensors, protoshields, or other components have to be purchased by the team.
 * A Four-Chord song was selected from [Wikipedia](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression).
 * Unlimited Maker space resources (3d printing, laser cutting, etc.)
