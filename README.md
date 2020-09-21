@@ -27,6 +27,13 @@ Testing                    | Presentation
 :-------------------------:|:-------------------------:
 ![](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Testing.png)  | ![](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Presentation.png)
 
+## Gallery
+
+Testing                    | Presentation               
+:-------------------------:|:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Testing.png)](https://vimeo.com/432015851) | 
+[![Watch the video](https://github.com/dannyjanani/BattleOfTheBands/blob/master/Gallery/Presentation.png)](https://vimeo.com/432016129)
+
 ## Provided Materials
 
 * [Teensy3.2](https://www.pjrc.com/store/teensy32.html) for each group member.
